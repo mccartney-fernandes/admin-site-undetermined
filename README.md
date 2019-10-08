@@ -1,14 +1,14 @@
-## Área Adminstrativa do Portal da Undetermined Studios
+# Área Administrativa do Portal da Undetermined Studios
 
-### Objetivo 
+## Objetivo
 
-1 - tela de login com autenticação no firebase - OK
-2 - criação do layout da Dashboard - pendding
-3 - menu lateral - pandding
-
-### Pendente de analise do projeto (Site)
-
-4 - crud Projetos - pandding
-5 - crud demais componetes dinâmicos do site - pandding
+ 1. tela de login com autenticação no firebase - OK 
+ 2. criação do layout do Dashboard - pendding 
+ 3.  menu lateral - pandding
+ 
+ ## Pendente de análise do projeto (Site)
+ 
+ 5. crud Projetos - pandding 
+ 6. crud demais componentes dinâmicos do site - pandding
 
 
