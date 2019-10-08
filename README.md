@@ -5,6 +5,9 @@
 1 - tela de login com autenticação no firebase - OK
 2 - criação do layout da Dashboard - pendding
 3 - menu lateral - pandding
+
+### Pendente de analise do projeto (Site)
+
 4 - crud Projetos - pandding
 5 - crud demais componetes dinâmicos do site - pandding
 
